@@ -1,7 +1,7 @@
 # React Native Share Extension
-#this is my variant of the extensiopn
-#brought it to current standards - made it pods-friendly!
-#thanks!
+## this is my variant of the extension
+## brought it to current standards - made it pods-friendly!
+## thanks!
 AARYAN-KAPUR
 
 This is a helper module which brings react native as an engine to drive share extension for your app.
